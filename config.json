@@ -1,0 +1,6 @@
+{"Test_execution_command":[
+  "tests/test_smart_total_loss_with_or_without_payload.py --testdatafile testresources/awsqa/testdata_with_or_without_payload.yaml",
+  "tests/test_smart_total_loss_with_or_without_payload.py --testdatafile testresources/awsqa/testdata_with_or_without_payload.yaml"
+  
+  ]
+}
